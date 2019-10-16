@@ -304,7 +304,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://www.youtube.com/embed/ndnpH6hlpoA?controls=1&loop=1&autoplay=1&mute=0&enablejsapi=1");
+  ifrm.setAttribute("src", "https://www.youtube.com/embed/ndnpH6hlpoA?controls=1&loop=0&autoplay=1&mute=0&enablejsapi=1");
   ifrm.setAttribute('allowFullScreen', '');
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
